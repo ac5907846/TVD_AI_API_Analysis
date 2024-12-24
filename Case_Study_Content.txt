@@ -1,0 +1,243 @@
+CASE STUDY
+Implementing Target Value Design
+Developed by Florida Gulf Coast University and Texas A&M University with Gilbane Building Company 
+Deliverable 2: Draft Case Study
+Submitted to:
+AGC Education & Research Foundation
+Date of Submission: February 28, 2024
+ 
+Table of Contents
+
+1.	Learning Objectives	3
+2.	Description of the Case Study	3
+3.	Cost Management Dilemma (Dilemma 1)	5
+3.1.	Recognizing and Dealing with Financial Constraints	5
+3.2.	Questions for Dilemma 1	5
+4.	Scope Management Dilemma (Dilemma 2)	5
+4.1.	Dealing with Multiple and Sometimes Conflicting Stakeholder Needs	5
+4.2.	Questions for Dilemma 2a	7
+4.3.	Developing and Selecting Alternative Solutions	7
+4.4.	Questions for Dilemma 2b	8
+5.	Change Management Dilemma (Dilemma 3)	9
+5.1.	Dealing with Uncertainty from Changing Circumstances	9
+5.2.	Questions for Dilemma 3	9
+6.	Team Management Dilemma (Dilemma 4)	9
+6.1.	Motivating Stakeholders to Work Collaboratively	9
+6.2.	Question for Dilemma 4	9
+7.	Stakeholder Engagement Dilemma (Dilemma 5)	10
+7.1.	Creating Buy-in with Stakeholders	10
+7.2.	Question for Dilemma 5	10
+8.	Appendix – Table for Choosing by Advantages	11
+
+ 
+1.	Learning Objectives
+Through the activities introduced in the case study, participants will be able to:
+•	Distinguish the concepts, methods, tools and practices used in target value design (TVD) and select the right approach for a specific challenging situation.
+•	Analyze facts and details for evaluating problems in a complex design and construction environment.
+•	Formulate, discuss, and decide strategies, actions and solutions to provide the best value to the project owner when implementing target value design.
+2.	Description of the Case Study 
+A new healthcare campus of Topnotch Health is being built on a 15-acre brownfield tract of land in Merritt Island, Florida. Topnotch Health, the project owner, is a not-for-profit community health system located in a large county in Florida and the largest health care provider in the county. Figure 1 shows the project location and its proximity areas. The project is expected to break ground in 2024 and be completed in two years. Once completed, it would replace the services of the 60-year-old Cape Canaveral Hospital that is located in Cocoa Beach, is just four miles away, and lies on a low-lying peninsula of reclaimed land in the Banana River. Cape Canaveral Hospital frequently has to evacuate patients during tropical storms and hurricanes. For example, it cost Topnotch Health $5 million to evacuate Cape Canaveral Hospital during Hurricane Dorian in 2019. The overall budget for the project is approximately $410,000,000, including construction and owner supplied equipment.
+
+Figure 1. Project Location and its Proximity Areas
+
+The major components of the new healthcare campus in Merritt Island include:
+•	A 284,000-SF hospital
+•	A 92,000 square feet (SF) medical office building (MOB)
+•	A 7,000-SF commons building
+•	A new 450-space parking garage
+
+The hospital will have 120 patient beds, a total of 29 Emergency Department beds (three of which are fast track), 6 operating rooms (ORs) and three cath labs (cardiac catheterization labs). All 120 rooms in the new hospital will be private. The hospital also includes spaces for two CT (computed tomography) scanners and one MRI (magnetic resonance imaging) machine, as well as a pharmacy and lab space. 
+
+The MOB will have two CT’s, two MRIs, two X-Ray machines, one PET-CT (Positron Emission Tomography and Computed Tomography), two ultrasound and one nuclear camera. The new 450-space parking garage has 200,000 SF and will include an Automated Parking Guidance System (APGS).
+
+Topnotch Health has selected ProA/E as the project architect and Prime Building Group (hereafter referred to as Prime) as a contractor to provide pre-construction services. Topnotch Health has set the project expectations for the project team in terms of conditions of satisfactions, “must-have” criteria, and “want-to-have” criteria as shown in Table 1.
+
+Table 1. Project Expectations
+Conditions of Satisfaction	“Must-Have” Criteria	“Want-to-Have” Criteria
+•	Customer-focused and friction-free
+•	Designed with the consumer in mind, providing the community what they want, when they want it
+•	Transition from an era focused on sick care to an era of providing healing-well and living-well services
+•	State-of-the-art
+•	Flexible and adaptable
+•	Financially profitable	•	Constructed to withstand a Category 4 hurricane
+•	Protect against the threat of hurricane related flooding
+•	Hospital and MOB are connected by the Commons building
+•	450 parking spaces
+•	120 patient beds
+•	29 Emergency Department beds
+•	6 Operating Rooms
+•	3 Cath labs
+•	Two CT’s, one MRI as well as a pharmacy and lab space	•	Be a landmark project for the local area
+•	Five-story hospital
+•	Four-level parking garage
+•	Three-story medical office building
+
+The project owner employed Construction Management at Risk (CM at Risk) as a project delivery method. Potential CM/GCs submitted a written response to the Request for Proposals (RFP) that included the project approach, cost components of fee, and insurances and general conditions. There were two interviews including one half day interview and one that approximately lasted two hours.  These interviews were key to the owner’s selection and decision as they were looking for chemistry and the team they felt they could work with best.  Through this procurement process, Prime was selected as the CM/GC. 
+
+The project approach was how Prime would execute the project including virtual design and construction (VDC), prefab, TVD, block scheduling, etc.  Prime then selected key trades to involved in TVD as design assist roles and utilized the DA trades to price their respective scopes during the TVD process. Beyond the key trades Prime priced each bid scope with three trades.  All this pricing was rolled into a Guarantee Maximum Price (GMP).
+
+The owner utilized historical data to create a budget for the project as well as benchmarking with another healthcare system.  Prime also provided benchmark cost data from projects across the country.   Of the $410-million total budget, approximately $290 million was allocated to construction and the balance would be soft costs, medical equipment, etc.
+
+3.	Cost Management Dilemma (Dilemma 1)
+3.1.	Recognizing and Dealing with Financial Constraints
+In recent years, Topnotch Health and many other healthcare systems have experienced rapidly increasing labor, materials, energy, transportation and construction costs of building hospitals as well as the rising costs of doing business for their health care operations. The owner’s representative expressed that “health care systems and hospitals cannot simply raise or adjust [their] prices in response to external pressures like an airline, hotel, restaurant, theme park or grocery store can.” 
+
+The owner needs to build this hospital but is concerned if they will ultimately be able to afford the first cost and then create a reasonably profitable operation that can be sustained. In fact, the two owner’s proposed healthcare sites in Melbourne and Palm Bay also located in this coastal region of Florida (Figure 1) have been paused to be reevaluated. You are in charge and have been asked to bring stakeholders together to see if it’s possible to design and build a hospital that works with their business model and is affordable. The market cost for healthcare facilities in this area is $876 per SF. The owner’s business model shows they can only afford $745 per SF – this is the allowable cost per SF. The allowable cost is a drop of 15% from the market cost.
+
+3.2.	Questions for Dilemma 1
+a.	Should this project be paused as the other proposed healthcare campuses in Melbourne and Palm Bay?
+b.	What do you recommend should be done to meet allowable costs?
+
+4.	Scope Management Dilemma (Dilemma 2)
+4.1.	Dealing with Multiple and Sometimes Conflicting Stakeholder Needs
+Designing and building a healthcare complex at this scale is not only technically challenging but also requires soliciting input from multiple stakeholders throughout the project development processes. This is especially emphasized in this project when “customer-focused and friction-free” and “designed with the consumer in mind, providing the community what they want, when they want it” are among the conditions of satisfaction. Figures 2 and 3 show a simplified project organization chart and the draft layout plan of the Topnotch Health Hospital project.
+
+ 
+Figure 2. Project Organization Chart
+
+ 
+Figure 3. Draft Layout of Topnotch Hospital Project (Source: Project Designer)
+
+According to your company’s past experience, there are multiple users with demands that appear contradictory. For example:
+
+•	The owner wants a state-of-the-art healthcare facility but is financially constrained by the reality of the business and must build a facility to an allowable cost that is lower per square foot than other facilities in the region that carry out similar procedures.
+•	Staff members want a healing garden to unwind from stress but this may increase capital (first) costs.
+•	Cleaners want an easy-to-clean space, but this is too harsh and psychologically sterile for many patients.
+•	Donors want a glamorous hospital lobby that publicly showcases their family donation, but less glamorous equipment rooms and needs such as cath labs are more critical for the hospital’s daily operation.
+•	Local residents are demanding that impacts on traffic and noise are minimal.
+
+To heighten the confusion and tension, some voices are louder than others, but these individuals may not be the ultimate decision-makers. Additionally, owner desires tend to change and grow over time (scope creep) and priorities become muddled to the designers who need to figure out where to prioritize limited funds.
+
+4.2.	Questions for Dilemma 2a
+You are in charge and have been asked to develop a process to manage all these disparate voices to ensure an affordable outcome.
+a.	What do you do to resolve conflicting requirements and build consensus?
+
+4.3.	Developing and Selecting Alternative Solutions
+Disagreements among stakeholders about how to select a specific design alternative, given varying needs and stakeholders are commonplace in any construction project. In this case, the project architect is very protective of the building’s exterior look. Figure 4 illustrates sample exterior finishes. 
+
+ 
+Figure 4. Sample Exterior Finishes
+
+A variety of exterior wall assemblies are available in the market. Examples are Tilt with Thin Brick, concrete masonry unit (CMU)/Brick Cavity, CMU/Split-Face Cavity, Metal Stud/Brick Cavity, Metal Stud/Split-Face Cavity, Prefab Sto Panel, Metal Stud/Metal Panel Rainscreen, Glass Curtainwall and Storefront/Punched Opening.
+
+The project team conducted the analyses of three exterior wall assemblies that are summarized in Tables 2 and 3.
+
+4.4.	Questions for Dilemma 2b
+b.	In choosing among exterior wall systems for the hospital façades, which of the following three factors is the most important: economics, safety, or aesthetics?
+c.	Which exterior wall system should you recommend for the hospital façade?
+
+Table 2. Exterior wall assembly analysis
+Description	Tilt with Thin Brick	CMU/Brick Cavity 	Metal Stud/Metal Panel Rainscreen
+Look	 	 	 
+Schedule	10 weeks	12 weeks	4 weeks
+Weather Proof	Good	Best	Better
+Exterior maintenance	Best	Best	Best
+Insulation qualities	R-18	R-25	R-24
+Local trade availability	2	4	15
+Material availability	Best	Best	Best
+Historical performance	Good	Best	Good
+Project safety	Good	Good	Best
+
+Table 3. Cost analysis of exterior wall assembly 
+Component	Quantity	Unit	Unit Price*	Tilt with Thin Brick	CMU/Brick Cavity	Metal Stud/ Metal Panel Rainscreen
+8" CMU	   10,000 	sf	$28 	-	$280,000	-
+Brick veneer	   10,000 	sf	$32 	-	$320,000	-
+Thin brick	   10,000 	sf	$24 	$240,000	-	-
+Metal panel system	   10,000 	sf	$60 	-	-	$600,000
+Spray waterproofing	   10,000 	sf	$4 	-	$40,000	$160,000
+Relieving angle at openings	        200 	lf	$72 	-	$14,400	-
+Tiltwall	   10,000 	sf	$32 	$320,000	-	-
+Caulk/sealants	        833 	lf	$7.5 	$6,248	$20,000	$50,000
+Interior Furred Wall - VB/Stud/Ins/Gyp	   10,000 	sf	$9 	$90,000	$90,000	$50,000
+Interior gyp only	   10,000 	sf	$5 	-	-	$50,000
+Interior paint	   10,000 	sf	$1 	$10,000	$10,000	-
+Total		$		$666,248	$774,400	$910,000
+Total $/sf - Enclosure Area		$/sf		$67	$77	$91
+*Some unit costs may not apply for all wall systems
+
+5.	Change Management Dilemma (Dilemma 3)
+5.1.	Dealing with Uncertainty from Changing Circumstances
+Hospitals take a long time to design and build. In the meantime, circumstances often change. For example, owners change their minds, permits are approved or denied, material costs may escalate, labor shortages may arise, supply chains become overloaded so procurement becomes challenging, and previously assumed resources may no longer exist. On the other hand, it may be possible to raise additional funding from the community and/or wealthy donors and these funds may suddenly appear even after design decisions have already been made.
+5.2.	Questions for Dilemma 3
+a.	How can you create the flexibility needed to address future uncertainty?
+
+6.	Team Management Dilemma (Dilemma 4)
+6.1.	Motivating Stakeholders to Work Collaboratively
+Table 4 shows show the estimated costs and proportions of different systems/trades based on the market of similar hospital projects.
+
+Table 4. Market costs of systems/trades for the hospital building
+Systems/Trades	Estimated Costs	Estimated Percent
+Demo, Civil, Foundations & Structure	$44,200,000	18%
+Exterior Envelope/Enclosure	$32,500,000	13%
+Interior Construction / Finishes / Furnishings	$58,000,000	23%
+Mechanical, Plumbing, Fire Protection	$62,500,000	25%
+Electrical & Low Voltage	$51,600,000	21%
+Total	$248,800,000	100%
+
+During TVD process, stakeholders responsible for the various systems (e.g. HVAC, electrical, structural, fenestrations, etc.) are understandably reluctant to surrender financial “turf” over their potential part of the project.
+
+However, as project manager, you do not want just a “cheaper” project (poorer quality), but instead a project of higher value at lower cost. To do this, you recognize that funding must flow across stakeholder boundaries. For example, if in a hot climate, low-e glass fenestrations are introduced early enough in the design process, the mechanical systems can be down-sized and overhead duct diameters can be reduced. If overhead duct diameters are reduced, then floor-to-floor heights can be minimized. If the floor-to-floor heights are lower, structural frames carry less loads and need less materials. In other words, the higher cost of low-e glass is substantially offset by savings from the elimination of mechanical and structural waste.
+6.2.	Question for Dilemma 4
+a.	As project manager, how might you design a process in such a way the rewards the team to be willing to permit money to flow across boundaries and work collaboratively?  In other words, how can you motivate stakeholders to think as a system?
+
+7.	Stakeholder Engagement Dilemma (Dilemma 5)
+7.1.	Creating Buy-in with Stakeholders
+Table 5 shows potential bid packages (BPs) for this type of health care projects. TVD is a different way of working and many stakeholders may resist at first, especially for stakeholders who have been working for many decades using more traditional project delivery systems, such as design-bid-build (DBB). For example, some trades are not always as transparent in pricing as they should be.
+Table 5. Potential bid packages
+BP #	Bid Package Name		BP #	Bid Package Name		BP #	Bid Package Name
+03B	Concrete		09A	Ext framing & sheathing		11D	RF shielding
+03C	Precast		09B	Stucco		12A	Window treatments
+03D	DB parking garage		09C	Framing, DW & insulation		12B	Lab & med casework
+04A	Masonry		09F/G	Tile		14A	Elevators
+05A	Structural steel		09H/I	Soft & resilient flooring		14B	Pneumatic tube
+05C	Metal and glass railings		09J/K	Acoustical ceilings & walls		21A	Fire protection
+06A/B	Casework & millwork		09L/M	Painting		22A	Plumbing
+07B	Subgrade waterproofing		09N	Terrazzo		23A	HVAC
+07C	Roofing		09P	SS wall panels		26A	Temp electric
+07D	Terracotta wall panels		10B	Display boards		26B	Electrical
+07E	Metal panels		10C	Toilet & fire accessories		27A	Communications
+07F	Fireproofing		10D	Wall protection		31C	Auger cast piles 
+07G	Edge of slab firesafing		10E	Specialties		31D	Sitework & utilities
+07H	Envelope waterproofing		10I	Lockers & benches		32A	Landscaping & irrigation
+07I	Firestopping		10L	Operable partitions		32C	Pavers & hardscape
+07J	Smoke contain. barriers		10K	Accordion fire doors		32D	Fencing
+08A	Curtainwall		10L	Exterior signage		32E	Site furnishings
+08B	Doors, frames, & hardware		11A	Loading dock equipment			Owner equipment
+08C	Interior glazing		11B	Pharmacy clean room			AHCA QA/QC
+08D	Overhead doors		11C	Food service equipment			
+
+7.2.	Question for Dilemma 5
+a.	As project manager, how might you create buy-in with the owner and stakeholder team? 
+
+ 
+8.	Appendix – Table for Choosing by Advantages
+Decision:
+	Alternatives
+Factors and Criteria		
+	
+Schedule	Attributes						
+
+	Advantages						
+Weather proof	Attributes						
+
+	Advantages						
+Exterior maintenance	Attributes						
+
+	Advantages						
+Insulation qualities	Attributes						
+
+	Advantages						
+Local trade availability	Attributes						
+
+	Advantages						
+Material availability	Attributes						
+
+	Advantages						
+Historical performance	Attributes						
+
+	Advantages						
+Project safety	Attributes						
+
+	Advantages						
+Total importance							
+Total cost per SF					

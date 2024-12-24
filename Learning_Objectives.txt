@@ -1,0 +1,3 @@
+LO1: Distinguish the concepts, methods, tools and practices used in TVD and select the right approach for specific challenging situations.
+LO2: Analyze facts and details for evaluating problems in a complex design and construction environment.
+LO3: Formulate, discuss, and decide strategies, actions and solutions to provide the best value to the project owner when implementing TVD.
